@@ -13,4 +13,3 @@
 - Hasura는 신규 및 기존 데이터 소스에 대한 즉각적인 GraphQL 및 REST API를 제공한다.
 - Hasura를 데이터에 연결하고 1분 이내에 API를 받으세요.
 - https://hasura.io/
-
